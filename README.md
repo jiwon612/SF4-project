@@ -2,7 +2,15 @@
 
 배터리 관리 시스템(BMS) 품질검사 대시보드 — Spring Boot 3 + Vue 3 풀스택 프로젝트
 
+<div align="center">
+  <img src="./image.png" alt="BMS Dashboard Image" width="45%">
+  <img src="./image2.png" alt="BMS Dashboard Image" width="45%">
+</div>
+</div>
+
 https://smartfactory-bms-project.vercel.app/login
+> 실행 환경에 따라 로딩이 발생할 수 있음  
+> -> 발표 피드백: OS에 따라 로딩 시간 다름, 해결 진행중
 
 ---
 
@@ -448,5 +456,3 @@ Vercel(프론트엔드) + Render(백엔드) 사용
 | **operator** | 할당된 공장 데이터만 조회 가능 (관리 기능 접근 불가) |
 
 ---
-
-
